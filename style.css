@@ -28,6 +28,9 @@ html{
   font-weight: 600;
   align-self: center!important;
   transition: .5s ease;
+  border-radius: 8px;
+  backdrop-filter: blur(20px);
+  background-color: transparent;
 }
 
 .navigation__toggle:hover{
